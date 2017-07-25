@@ -1,3 +1,3 @@
-# Craft Commerce Moneris Gateway
+# Craft Commerce Moneris
 
 This plugin adds Moneris gateway for Craft Commerce.
